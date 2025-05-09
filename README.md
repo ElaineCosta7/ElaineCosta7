@@ -1,6 +1,7 @@
 ## Hi there 👋
 **Estudante de Desing Digital na UFC**
 
+.
 
 <!--
 **ElaineCosta7/ElaineCosta7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
